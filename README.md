@@ -14,7 +14,7 @@ Los requisitos para la visualización y seguimiento de este proyecto es necesari
 - Descargar Power BI Desktop (Gratis) - Nota: Power BI solo funciona en Windows.
 - Interés por practicar y participar: Cualquier duda que tengas durante el curso tendrás soporte uno a uno en cuestión de minutos ¡Compruébalo!
     
-## Authors
+## Autor
 
 - [@wagner2195](https://www.github.com/wagner2195)
 
@@ -29,7 +29,7 @@ Informe de Producción y Razones de Devolución https://app.powerbi.com/links/6X
 Proyecto realizado con la contribución del equipo de @DatData (https://www.udemy.com/user/datdata/) y los instructores Javier Gomez (https://www.udemy.com/user/egpjavier/) y Guillermo Perdomo Sosa https://www.udemy.com/user/guillermo-perdomo-3/, facilitadores de la plataforma de UDEMY. 
 
 
-## 🛠 Skills
+## 🛠 Herramienta
 
 - Power BI
 - Microsoft Excel
@@ -38,9 +38,8 @@ Proyecto realizado con la contribución del equipo de @DatData (https://www.udem
 
 ## Anexos
 
-- [Informe Producción](https://itlaedudo-my.sharepoint.com/:i:/g/personal/202010952_itla_edu_do/EeNcm9ky_G9PjHNRTgkNPiQBmPT8ZL0WWmDedXb6cbNz6Q?e=Z3Y6eK)
- - [Informe Razones de Devolución](https://itlaedudo-my.sharepoint.com/:i:/g/personal/202010952_itla_edu_do/EcxFFLEc4X5GmT0wi_WGiNIB1NJImrZoQVfdpbc3A5a31A?e=QyNZRl)
- - [Informe de Producción Versión PDF](https://itlaedudo-my.sharepoint.com/:b:/g/personal/202010952_itla_edu_do/EYYE52n-q8JKlYtsvRShuuIBmTS6HyKQR6lrR_UAbICTqA?e=sDY3f9)
+- ![Informe-Entrega](https://github.com/wagner2195/Analisis_y_Visualizacion_De_Datos_Con_PowerBI/assets/46799763/168c2245-1b8d-474e-aa30-4e2e5fcb6575)
+- ![Informe-RazonesDevolución](https://github.com/wagner2195/Analisis_y_Visualizacion_De_Datos_Con_PowerBI/assets/46799763/24911d6d-dd48-4f3f-a00e-8eac8d16431c)
 
 
 ## Agradecimientos
