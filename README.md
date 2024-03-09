@@ -50,7 +50,7 @@ Proyecto realizado con la contribución del equipo de @DatData (https://www.udem
  - [Guillermo Perdomo Sosa](https://www.linkedin.com/in/guillermoperdomo/)
 
 
-## Used By
+## Usado por
 
 Este proyecto es una colaboración con el equipo de DatData a través de la platafomra de UDEMY en la cual se definen los pasos a seguir para la elaboración de este informe final el cual se visualiza a través de la herramienta de Microsoft Power BI, este proyecto fue realizado con la colaboración de los instructores:
 
